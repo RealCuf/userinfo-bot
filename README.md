@@ -1,5 +1,5 @@
 <br>
-<a href="https://github.com/RealCuf/VCG-Script" target="_blank"><img src="https://i.ibb.co/k2SDbkw/image.png"></a>
+<a href="https://github.com/RealCuf/VCG-Script" target="_blank"><img src="https://i.ibb.co/vH7HSwk/image.png"></a>
 <hr>
 
 ### Be sure to follow my Twitter and Instagram
